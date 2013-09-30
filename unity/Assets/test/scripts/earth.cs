@@ -11,6 +11,6 @@ public class earth : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		float dd = Time.deltaTime;
-		transform.Rotate(0.0f, dd * 3.0f, 0.0f);
+		transform.Rotate(0.0f, dd * 5.0f, 0.0f);
 	}
 }

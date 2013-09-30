@@ -50,6 +50,7 @@
      <Compile Include="Assets\test\scripts\lib\TmSpriteAnim.cs" />
      <Compile Include="Assets\test\scripts\lib\TmSystem.cs" />
      <None Include="Assets\test\shaders\SpriteVtxCol.shader" />
+     <None Include="Assets\test\doc\test.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
