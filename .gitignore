@@ -1,0 +1,8 @@
+# unity 
+
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
